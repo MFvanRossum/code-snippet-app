@@ -6,7 +6,7 @@ Code snippets are public and users can search the Snip-It library by programming
 
 Snip-It uses Prism.js for syntax-highlighting.
 
-The app is live, deployed via Heroku at: [snip-it-snippet.herokuapp.com](snip-it-snippet.herokuapp.com)
+The app is live, deployed via Heroku at: [snip-it-snippet.herokuapp.com](https://snip-it-snippet.herokuapp.com)
 
 ## Django Project Template
 
