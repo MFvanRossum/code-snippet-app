@@ -1,4 +1,14 @@
-# Django Project Template
+# Snip-It: A Code Snippet App
+
+Snip-It is an application built in the Django framework for Python that allows users to create a profile and post commonly used code snippets for later use. Instances of the Snippet Model are stored in a PostgreSQL database and are linked to the user who created them via a custom User Model. 
+
+Code snippets are public and users can search the Snip-It library by programming languange or other search terms that appear in the snippet. Each snippet has a "copy to clipboard" button for easy copy/pasting. 
+
+Snip-It uses Prism.js for syntax-highlighting.
+
+The app is live, deployed via Heroku at: [snip-it-snippet.herokuapp.com](snip-it-snippet.herokuapp.com)
+
+## Django Project Template
 
 This project was generated from the Momentum Django project template. This template sets up some minimal changes:
 
