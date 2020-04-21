@@ -8,6 +8,8 @@ Snip-It uses Prism.js for syntax-highlighting.
 
 The app is live, deployed via Heroku at: [snip-it-snippet.herokuapp.com](https://snip-it-snippet.herokuapp.com)
 
+This application was created as an assignment for Momentum Learning's Immersive Full Stack Development Course.
+
 ## Django Project Template
 
 This project was generated from the Momentum Django project template. This template sets up some minimal changes:
